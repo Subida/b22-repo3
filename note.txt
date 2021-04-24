@@ -3,3 +3,10 @@ to remote GitHub.com repostory
 Few thing happened:
 1. It automatically created new remote repo
    under your
+   now our work will continue locally
+
+   1. adda new file called note.txt
+   2. commited the change to local repo
+   3. we want this change to be reflected in 
+   remote repository so we Pushed local commits to remote repository using push origin button
+   4. observe 
