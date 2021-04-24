@@ -20,4 +20,7 @@ Few thing happened:
 
 
    we do  not have to puch one commit at a time
+you can push multiple commits in one shot
+there is no lomit
+
 
