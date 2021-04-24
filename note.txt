@@ -10,3 +10,11 @@ Few thing happened:
    3. we want this change to be reflected in 
    remote repository so we Pushed local commits to remote repository using push origin button
    4. observe 
+
+
+
+   How to save after adding some text in sublime
+   On mac Command + s
+   On windows Control + s
+   Or Click on file --> save
+   
